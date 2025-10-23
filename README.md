@@ -1,6 +1,6 @@
 # **App selecionador de imagem**
 
-> Um aplicativo Android simples que permiter o usuário clilcar em um botão que altera a imagem.
+> Um aplicativo Android simples que permite o usuário clilcar em um botão que altera a imagem.
 
 ## 📱 Descrição
 
@@ -18,7 +18,7 @@
 - [x] **Android Studio** (Koala | 2024.1.2)
 - [x] **Java** para desenvolvimento
 - [x] **ConstraintLayout** para interface responsiva
-- [x] **TextView** e **EditText** para entrada e exibição de dados
+- [x] **TextView** exibição de dados
 - [x] **Button**   para executar o app.
 
 ## 🛠️ Como Rodar o Projeto
